@@ -1,0 +1,19 @@
+{
+  "name": "lato",
+  "version": "1.0.0",
+  "description": "I split the SASS file, so the developer can decide which fonts and styles he really needs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blogsend/lato.git"
+  },
+  "author": "",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/blogsend/lato/issues"
+  },
+  "homepage": "https://github.com/blogsend/lato#readme"
+}
